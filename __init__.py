@@ -31,6 +31,7 @@ bl_info = {
     "version": (0, 0, 1),
     'location': 'Properties > Data > Topology Groups',
     "warning": "",
+    "tracker_url": "https://github.com/LokiTheCuteBear/RetopoView",
     "category": "Object"
 }
 
